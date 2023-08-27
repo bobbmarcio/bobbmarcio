@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 <!--
 **bobbmarcio/bobbmarcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/bobbmarcio">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bobbmarcio&show_icons=true&theme=dark&line_height=40&count_private=true"/>
+</a>
